@@ -1,0 +1,8 @@
+/Random Quiz Generator
+.DS_Store
+*.txt
+*.db
+*.pyw
+*.pyc
+__*__
+*.log
